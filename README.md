@@ -71,14 +71,7 @@ github.com/4I3X_Navarro
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=4I3X_Navarro&show_icons=true&hide_title=false&bg_color=05080D&title_color=2FA8FF&icon_color=2FA8FF&text_color=C9E8FF&border_color=1F6FA8&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4I3X_Navarro&layout=compact&bg_color=05080D&title_color=2FA8FF&text_color=C9E8FF&border_color=1F6FA8&border_radius=10" />
-
 <br>
-
-<img src="https://streak-stats.demolab.com/?user=4I3X_Navarro&background=05080D&border=1F6FA8&stroke=2FA8FF&ring=2FA8FF&fire=2FA8FF&currStreakNum=2FA8FF&sideNums=C9E8FF&currStreakLabel=2FA8FF&sideLabels=C9E8FF&dates=6B8FAE" />
-
-</div>
 
 <sub>
 
